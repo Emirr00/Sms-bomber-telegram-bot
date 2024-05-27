@@ -1,5 +1,4 @@
 requests==2.26.0
-concurrent
-icecream
-pyrogram
-datetime
+icecream==2.1.3
+pyrogram==2.0.106
+datetime==5.5
