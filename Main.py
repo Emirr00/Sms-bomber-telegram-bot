@@ -66,7 +66,7 @@ def main(cli,msg):
             return
         if int(tekrar)>30:
             app.send_message(chatid, "En fazla 30 tane sms gönderebilirsin!")
-            return #5421004143
+            return
         
         pnumber=number
         print("tekrar",tekrar)
